@@ -4,7 +4,7 @@
 
 Проверено на версиях Fabric Loader от 0.14.0 до 0.19.3, java 8.
 
--
+- EN
 
 Load the downloaded mod during the Minecraft startup process. Essentially, the mod can be downloaded right as the game launches and loads. This is ideal for automatic mod updates.
 
